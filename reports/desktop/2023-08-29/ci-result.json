@@ -1,0 +1,238 @@
+[
+  {
+    "path": "/",
+    "score": 0.87
+  },
+  {
+    "path": "/about-dora",
+    "score": 0.95
+  },
+  {
+    "path": "/about-dora/stakeholder-engagement-in-rulemaking",
+    "score": 0.95
+  },
+  {
+    "path": "/about-the-executive-director",
+    "score": 0.97
+  },
+  {
+    "path": "/accessibility-statement",
+    "score": 0.95
+  },
+  {
+    "path": "/accounting-purchasing",
+    "score": 0.95
+  },
+  {
+    "path": "/careers-at-dora",
+    "score": 0.87
+  },
+  {
+    "path": "/check-a-license",
+    "score": 0.88
+  },
+  {
+    "path": "/co-state-holidays",
+    "score": 0.94
+  },
+  {
+    "path": "/consumer-protection",
+    "score": 0.91
+  },
+  {
+    "path": "/consumer-protection-civil-rights",
+    "score": 0.95
+  },
+  {
+    "path": "/consumer-protection-health-insurance",
+    "score": 0.95
+  },
+  {
+    "path": "/consumer-protection-home-and-repair",
+    "score": 0.95
+  },
+  {
+    "path": "/consumer-protection-insurance",
+    "score": 0.95
+  },
+  {
+    "path": "/consumer-protection-licensing",
+    "score": 0.95
+  },
+  {
+    "path": "/consumer-protection-money",
+    "score": 0.95
+  },
+  {
+    "path": "/consumer-protection-utilities",
+    "score": 0.95
+  },
+  {
+    "path": "/consumer-protection/licensing",
+    "score": 0.95
+  },
+  {
+    "path": "/covid-19-updates-for-licensees-consumers",
+    "score": 0.95
+  },
+  {
+    "path": "/department-executive-leadership",
+    "score": 0.95
+  },
+  {
+    "path": "/doi-reinsurance-premiums-for-2021",
+    "score": 0.98
+  },
+  {
+    "path": "/dora-citizen-advocate",
+    "score": 0.95
+  },
+  {
+    "path": "/dora-divisions-programs-boards",
+    "score": 0.95
+  },
+  {
+    "path": "/dora-home",
+    "score": 0.86
+  },
+  {
+    "path": "/dora-public-information-and-records",
+    "score": 0.94
+  },
+  {
+    "path": "/edo",
+    "score": 0.95
+  },
+  {
+    "path": "/es",
+    "score": 0.87
+  },
+  {
+    "path": "/es/node/12011",
+    "score": 0.93
+  },
+  {
+    "path": "/es/node/12056",
+    "score": 0.95
+  },
+  {
+    "path": "/es/node/12246",
+    "score": 0.98
+  },
+  {
+    "path": "/es/node/12286",
+    "score": 0.98
+  },
+  {
+    "path": "/es/node/12821",
+    "score": 0.97
+  },
+  {
+    "path": "/file-complaint",
+    "score": 0.91
+  },
+  {
+    "path": "/help-center",
+    "score": 0.93
+  },
+  {
+    "path": "/hike",
+    "score": 0.95
+  },
+  {
+    "path": "/home",
+    "score": 0.88
+  },
+  {
+    "path": "/legislative-services",
+    "score": 0.95
+  },
+  {
+    "path": "/licensing-and-permitting",
+    "score": 0.89
+  },
+  {
+    "path": "/more-regulatory-services",
+    "score": 0.87
+  },
+  {
+    "path": "/news-article/aviso-al-consumidor-xcel-energy-presenta-nuevas-tarifas-electricas-horario-de-uso",
+    "score": 0.89
+  },
+  {
+    "path": "/node/10000",
+    "score": 0.92
+  },
+  {
+    "path": "/node/10002",
+    "score": 0.93
+  },
+  {
+    "path": "/node/10003",
+    "score": 0.92
+  },
+  {
+    "path": "/node/10004",
+    "score": 0.84
+  },
+  {
+    "path": "/nondiscrimination",
+    "score": 0.97
+  },
+  {
+    "path": "/press-release-source-of-income",
+    "score": 0.97
+  },
+  {
+    "path": "/press-release/colorado-public-utilities-commission-puc-invites-the-public-to-comment-on-ways-its",
+    "score": 0.98
+  },
+  {
+    "path": "/press-release/colorado-public-utilities-commissioner-megan-gilman-to-host-community-meetings-on",
+    "score": 0.98
+  },
+  {
+    "path": "/press-release/consumer-advisory-dont-let-the-grinch-steal-the-holidays",
+    "score": 0.98
+  },
+  {
+    "path": "/press-release/consumer-advisory-medicare-open-enrollment-ends-12/7",
+    "score": 0.98
+  },
+  {
+    "path": "/press-release/hoa-forum-metro/special-districts-and-how-they-interact-with-your-community",
+    "score": 0.97
+  },
+  {
+    "path": "/press-release/new-983-area-code-is-coming-to-the-303/720-region-in-the-greater-denver-area",
+    "score": 0.98
+  },
+  {
+    "path": "/press-release/office-of-hearing-aid-provider-licensure-permanent-rulemaking-hearing-on-may-3-2022-0",
+    "score": 0.98
+  },
+  {
+    "path": "/press-release/polr-cap-new-licensing-platform-weekly-update",
+    "score": 0.95
+  },
+  {
+    "path": "/public-information",
+    "score": 0.95
+  },
+  {
+    "path": "/services",
+    "score": 0.88
+  },
+  {
+    "path": "/services/consumer-assistance-complaint-resolution",
+    "score": 0.93
+  },
+  {
+    "path": "/services/licensing-permitting",
+    "score": 0.95
+  },
+  {
+    "path": "/stakeholder-engagement",
+    "score": 0.95
+  }
+]

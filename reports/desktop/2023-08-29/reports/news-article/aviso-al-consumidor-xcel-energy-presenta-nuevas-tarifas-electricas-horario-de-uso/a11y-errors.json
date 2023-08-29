@@ -1,0 +1,108 @@
+[
+  {
+    "id": "heading-order",
+    "title": "Heading elements are not in a sequentially-descending order",
+    "description": "Properly ordered headings that do not skip levels convey the semantic structure of the page, making it easier to navigate and understand when using assistive technologies. [Learn more](https://web.dev/heading-order/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-87-H4",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,4,FOOTER,0,DIV,0,DIV,0,DIV,0,SECTION,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,H4",
+            "selector": "div.paragraph__card > div.paragraph__column > div.field > h4",
+            "boundingRect": {
+              "top": 4425,
+              "bottom": 4470,
+              "left": 24,
+              "right": 651,
+              "width": 627,
+              "height": 45
+            },
+            "snippet": "<h4>",
+            "nodeLabel": "Contact Information",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "moderate",
+        "tags": [
+          "cat.semantics",
+          "best-practice"
+        ]
+      }
+    },
+    "errorCount": 1
+  },
+  {
+    "id": "image-alt",
+    "title": "Image elements do not have `[alt]` attributes",
+    "description": "Informative elements should aim for short, descriptive alternate text. Decorative elements can be ignored with an empty alt attribute. [Learn more](https://web.dev/image-alt/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-83-IMG",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,3,DIV,0,MAIN,0,DIV,2,SECTION,1,DIV,0,ARTICLE,1,DIV,2,DIV,33,P,0,SPAN,0,SPAN,0,SPAN,0,SPAN,0,SPAN,0,SPAN,0,SPAN,0,SPAN,0,SPAN,0,SPAN,0,SPAN,0,IMG",
+            "selector": "span > span > span > img",
+            "boundingRect": {
+              "top": 2239,
+              "bottom": 2816,
+              "left": 15,
+              "right": 681,
+              "width": 666,
+              "height": 577
+            },
+            "snippet": "<img height=\"577\" src=\"https://lh6.googleusercontent.com/K3AXyi0GfldJCBiPmSZ5tGtXxRunlFJeVpNk5RHG…\" width=\"666\">",
+            "nodeLabel": "span > span > span > img",
+            "explanation": "Fix any of the following:\n  Element does not have an alt attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "critical",
+        "tags": [
+          "cat.text-alternatives",
+          "wcag2a",
+          "wcag111",
+          "section508",
+          "section508.22.a",
+          "ACT"
+        ]
+      }
+    },
+    "errorCount": 1
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "color-contrast",
+    "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+    "description": "Low-contrast text is difficult or impossible for many users to read. [Learn more](https://web.dev/color-contrast/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-97-DIV",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,H3,0,DIV",
+            "selector": "div.paragraph__column > div.paragraph__title > h3.mt-0 > div.field",
+            "boundingRect": {
+              "top": 658,
+              "bottom": 708,
+              "left": 15,
+              "right": 660,
+              "width": 645,
+              "height": 51
+            },
+            "snippet": "<div class=\"field field--name-field-card-title field--type-string field--label-hidden …\">",
+            "nodeLabel": "I'm a Producer",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 2.88 (foreground color: #000000, background color: #405394, font size: 17.3pt (23px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "13-98-DIV",
+                  "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV",
+                  "selector": "div.paragraph--type--bp-columns__2col > div.paragraph__card > div.paragraph__column > div.paragraph__title",
+                  "boundingRect": {
+                    "top": 658,
+                    "bottom": 708,
+                    "left": 15,
+                    "right": 660,
+                    "width": 645,
+                    "height": 51
+                  },
+                  "snippet": "<div class=\"paragraph__title title_color color__brand-dark-blue-50  \">",
+                  "nodeLabel": "I'm a Producer"
+                }
+              },
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "13-99-DIV",
+                  "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV",
+                  "selector": "div.paragraph__column--container-wrapper > div.container > div.paragraph--type--bp-columns__2col > div.paragraph__card",
+                  "boundingRect": {
+                    "top": 658,
+                    "bottom": 797,
+                    "left": 15,
+                    "right": 660,
+                    "width": 645,
+                    "height": 140
+                  },
+                  "snippet": "<div class=\"paragraph__card paragraph paragraph--type--card-basic card_no-border parag…\">",
+                  "nodeLabel": "I'm a Producer\n\nVestibulum sollicitudin fringilla elit non placerat. Ut et leo …"
+                }
+              },
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "13-100-BODY",
+                  "path": "1,HTML,1,BODY",
+                  "selector": "body.path-node",
+                  "boundingRect": {
+                    "top": 0,
+                    "bottom": 1827,
+                    "left": 0,
+                    "right": 1350,
+                    "width": 1350,
+                    "height": 1827
+                  },
+                  "snippet": "<body class=\"path-node page-node-type-landing-page has-glyphicons\" style=\"position: relative; min-height: 100%; top: 0px;\">",
+                  "nodeLabel": "body.path-node"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-101-DIV",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,H3,0,DIV",
+            "selector": "div.paragraph__column > div.paragraph__title > h3.mt-0 > div.field",
+            "boundingRect": {
+              "top": 658,
+              "bottom": 708,
+              "left": 690,
+              "right": 1335,
+              "width": 645,
+              "height": 51
+            },
+            "snippet": "<div class=\"field field--name-field-card-title field--type-string field--label-hidden …\">",
+            "nodeLabel": "I'm a Consumer",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 2.88 (foreground color: #000000, background color: #405394, font size: 17.3pt (23px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "13-102-DIV",
+                  "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV",
+                  "selector": "div.paragraph--type--bp-columns__2col > div.paragraph__card > div.paragraph__column > div.paragraph__title",
+                  "boundingRect": {
+                    "top": 658,
+                    "bottom": 708,
+                    "left": 690,
+                    "right": 1335,
+                    "width": 645,
+                    "height": 51
+                  },
+                  "snippet": "<div class=\"paragraph__title title_color color__brand-dark-blue-50  \">",
+                  "nodeLabel": "I'm a Consumer"
+                }
+              },
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "13-103-DIV",
+                  "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV",
+                  "selector": "div.paragraph__column--container-wrapper > div.container > div.paragraph--type--bp-columns__2col > div.paragraph__card",
+                  "boundingRect": {
+                    "top": 658,
+                    "bottom": 797,
+                    "left": 690,
+                    "right": 1335,
+                    "width": 645,
+                    "height": 140
+                  },
+                  "snippet": "<div class=\"paragraph__card paragraph paragraph--type--card-basic card_no-border parag…\">",
+                  "nodeLabel": "I'm a Consumer\n\nPellentesque ut metus venenatis, fermentum quam non, venenatis …"
+                }
+              },
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "13-100-BODY",
+                  "path": "1,HTML,1,BODY",
+                  "selector": "body.path-node",
+                  "boundingRect": {
+                    "top": 0,
+                    "bottom": 1827,
+                    "left": 0,
+                    "right": 1350,
+                    "width": 1350,
+                    "height": 1827
+                  },
+                  "snippet": "<body class=\"path-node page-node-type-landing-page has-glyphicons\" style=\"position: relative; min-height: 100%; top: 0px;\">",
+                  "nodeLabel": "body.path-node"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.color",
+          "wcag2aa",
+          "wcag143"
+        ]
+      }
+    },
+    "errorCount": 2
+  },
+  {
+    "id": "heading-order",
+    "title": "Heading elements are not in a sequentially-descending order",
+    "description": "Properly ordered headings that do not skip levels convey the semantic structure of the page, making it easier to navigate and understand when using assistive technologies. [Learn more](https://web.dev/heading-order/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-104-H3",
+            "path": "1,HTML,1,BODY,0,DIV,1,DIV,5,MAIN,0,DIV,2,DIV,0,SECTION,2,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,H3",
+            "selector": "div.paragraph__card > div.paragraph__column > div.paragraph__title > h3.mt-0",
+            "boundingRect": {
+              "top": 658,
+              "bottom": 708,
+              "left": 15,
+              "right": 660,
+              "width": 645,
+              "height": 51
+            },
+            "snippet": "<h3 class=\"mt-0 mb-0\">",
+            "nodeLabel": "I'm a Producer",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "moderate",
+        "tags": [
+          "cat.semantics",
+          "best-practice"
+        ]
+      }
+    },
+    "errorCount": 1
+  }
+]
