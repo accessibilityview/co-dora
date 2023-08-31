@@ -1,0 +1,2189 @@
+[
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "/",
+    "lighthouseErrors": [
+      {
+        "id": "aria-hidden-focus",
+        "wcag": [
+          "1.3.1",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "1.3.1",
+        "lighthouse": "aria-hidden-focus",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-hidden-focus",
+        "errorCount": 1
+      },
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 4
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "/",
+    "lighthouseErrors": [
+      {
+        "id": "aria-hidden-focus",
+        "wcag": [
+          "1.3.1",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "1.3.1",
+        "lighthouse": "aria-hidden-focus",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-hidden-focus",
+        "errorCount": 1
+      },
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 4
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about-dora",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 3
+      }
+    ],
+    "lighthouseErrorCount": 3,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "accessibility-statement",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about-the-executive-director",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "accounting-purchasing",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "check-a-license",
+    "lighthouseErrors": [
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "co-state-holidays",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "careers-at-dora",
+    "lighthouseErrors": [
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 2
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 3,
+    "wcagErrors": [
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 2
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 2
+      }
+    ],
+    "wcagErrorCount": 4
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "consumer-protection",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "consumer-protection-civil-rights",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "consumer-protection-health-insurance",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "consumer-protection-home-and-repair",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "consumer-protection-insurance",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "consumer-protection-licensing",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "consumer-protection-money",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "consumer-protection-utilities",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "dora-citizen-advocate",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "covid-19-updates-for-licensees-consumers",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "department-executive-leadership",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "doi-reinsurance-premiums-for-2021",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "dora-divisions-programs-boards",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "dora-home",
+    "lighthouseErrors": [
+      {
+        "id": "aria-hidden-focus",
+        "wcag": [
+          "1.3.1",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "1.3.1",
+        "lighthouse": "aria-hidden-focus",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-hidden-focus",
+        "errorCount": 1
+      },
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 4
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "edo",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "dora-public-information-and-records",
+    "lighthouseErrors": [
+      {
+        "id": "definition-list",
+        "wcag": [
+          "1.3.1"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "1.3.1",
+        "lighthouse": "definition-list",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 1
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "es",
+    "lighthouseErrors": [
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "file-complaint",
+    "lighthouseErrors": [
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "hike",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "help-center",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "legislative-services",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "home",
+    "lighthouseErrors": [
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "licensing-and-permitting",
+    "lighthouseErrors": [
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "more-regulatory-services",
+    "lighthouseErrors": [
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "public-information",
+    "lighthouseErrors": [
+      {
+        "id": "definition-list",
+        "wcag": [
+          "1.3.1"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "1.3.1",
+        "lighthouse": "definition-list",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 1
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "press-release-source-of-income",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "nondiscrimination",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "stakeholder-engagement",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about-dora",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 3
+      }
+    ],
+    "lighthouseErrorCount": 3,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "services",
+    "lighthouseErrors": [
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 2
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 3,
+    "wcagErrors": [
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 2
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 2
+      }
+    ],
+    "wcagErrorCount": 4
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about-the-executive-director",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "accessibility-statement",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "accounting-purchasing",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "check-a-license",
+    "lighthouseErrors": [
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "careers-at-dora",
+    "lighthouseErrors": [
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 2
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 3,
+    "wcagErrors": [
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 2
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 2
+      }
+    ],
+    "wcagErrorCount": 4
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "co-state-holidays",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "consumer-protection",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "consumer-protection-civil-rights",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "consumer-protection-home-and-repair",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "consumer-protection-health-insurance",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "consumer-protection-insurance",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "consumer-protection-money",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "consumer-protection-licensing",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 2
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "consumer-protection-utilities",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "covid-19-updates-for-licensees-consumers",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "department-executive-leadership",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "doi-reinsurance-premiums-for-2021",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "dora-citizen-advocate",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "dora-divisions-programs-boards",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "dora-public-information-and-records",
+    "lighthouseErrors": [
+      {
+        "id": "definition-list",
+        "wcag": [
+          "1.3.1"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "1.3.1",
+        "lighthouse": "definition-list",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 1
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "es",
+    "lighthouseErrors": [
+      {
+        "id": "aria-hidden-focus",
+        "wcag": [
+          "1.3.1",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "1.3.1",
+        "lighthouse": "aria-hidden-focus",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-hidden-focus",
+        "errorCount": 1
+      },
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 4
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "edo",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "file-complaint",
+    "lighthouseErrors": [
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "dora-home",
+    "lighthouseErrors": [
+      {
+        "id": "aria-hidden-focus",
+        "wcag": [
+          "1.3.1",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "1.3.1",
+        "lighthouse": "aria-hidden-focus",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "aria-hidden-focus",
+        "errorCount": 1
+      },
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 4
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "help-center",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "home",
+    "lighthouseErrors": [
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "hike",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "licensing-and-permitting",
+    "lighthouseErrors": [
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "legislative-services",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "more-regulatory-services",
+    "lighthouseErrors": [
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "nondiscrimination",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "press-release-source-of-income",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "public-information",
+    "lighthouseErrors": [
+      {
+        "id": "definition-list",
+        "wcag": [
+          "1.3.1"
+        ],
+        "errorCount": 1
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "1.3.1",
+        "lighthouse": "definition-list",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 1
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "services",
+    "lighthouseErrors": [
+      {
+        "id": "frame-title",
+        "wcag": [
+          "2.4.1",
+          "4.1.2"
+        ],
+        "errorCount": 2
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 3,
+    "wcagErrors": [
+      {
+        "id": "2.4.1",
+        "lighthouse": "frame-title",
+        "errorCount": 2
+      },
+      {
+        "id": "4.1.2",
+        "lighthouse": "frame-title",
+        "errorCount": 2
+      }
+    ],
+    "wcagErrorCount": 4
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "stakeholder-engagement",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about-dora/stakeholder-engagement-in-rulemaking",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "consumer-protection/licensing",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "news-article/aviso-al-consumidor-xcel-energy-presenta-nuevas-tarifas-electricas-horario-de-uso",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      },
+      {
+        "id": "image-alt",
+        "wcag": [
+          "1.1.1"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "1.1.1",
+        "lighthouse": "image-alt",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 1
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "node/10000",
+    "lighthouseErrors": [
+      {
+        "id": "color-contrast",
+        "wcag": [
+          "1.4.3"
+        ],
+        "errorCount": 2
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 3,
+    "wcagErrors": [
+      {
+        "id": "1.4.3",
+        "lighthouse": "color-contrast",
+        "errorCount": 2
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "node/10002",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "node/10003",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "node/10004",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "press-release/colorado-public-utilities-commission-puc-approves-public-service-company-of-colorados",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "press-release/colorado-public-utilities-commission-puc-to-hear-draft-measurements-for-greenhouse",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "press-release/consumer-advisory-protect-yourself-against-home-equity-skimming-scams",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "press-release/puc-recommends-federal-communications-commissions-lifeline-program-supporting-low",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "press-release/consumer-advisory-dont-let-the-grinch-steal-the-holidays",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about-dora/stakeholder-engagement-in-rulemaking",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "services/consumer-assistance-complaint-resolution",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "services/licensing-permitting",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "consumer-protection/licensing",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "node/10000",
+    "lighthouseErrors": [
+      {
+        "id": "color-contrast",
+        "wcag": [
+          "1.4.3"
+        ],
+        "errorCount": 2
+      },
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 3,
+    "wcagErrors": [
+      {
+        "id": "1.4.3",
+        "lighthouse": "color-contrast",
+        "errorCount": 2
+      }
+    ],
+    "wcagErrorCount": 2
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "news-article/aviso-al-consumidor-xcel-energy-presenta-nuevas-tarifas-electricas-horario-de-uso",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      },
+      {
+        "id": "image-alt",
+        "wcag": [
+          "1.1.1"
+        ],
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 2,
+    "wcagErrors": [
+      {
+        "id": "1.1.1",
+        "lighthouse": "image-alt",
+        "errorCount": 1
+      }
+    ],
+    "wcagErrorCount": 1
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "node/10003",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "node/10002",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "node/10004",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "press-release/colorado-public-utilities-commission-puc-invites-the-public-to-comment-on-ways-its",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "press-release/consumer-advisory-dont-let-the-grinch-steal-the-holidays",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "press-release/colorado-public-utilities-commissioner-megan-gilman-to-host-community-meetings-on",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "press-release/office-of-hearing-aid-provider-licensure-permanent-rulemaking-hearing-on-may-3-2022-0",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "press-release/polr-cap-new-licensing-platform-weekly-update",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "services/consumer-assistance-complaint-resolution",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "services/licensing-permitting",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "es/node/12101",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "es/node/12261",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "es/node/12371",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "es/node/12426",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "es/node/12336",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "press-release/consumer-advisory-medicare-open-enrollment-ends-12/7",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "press-release/hoa-forum-metro/special-districts-and-how-they-interact-with-your-community",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "press-release/new-983-area-code-is-coming-to-the-303/720-region-in-the-greater-denver-area",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "es/node/12011",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "es/node/12246",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "es/node/12056",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "es/node/12286",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "es/node/12821",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "press-release/hoa-forum-metro/special-districts-and-how-they-interact-with-your-community",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "press-release/consumer-advisory-medicare-open-enrollment-ends-12/7",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dora",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "press-release/new-983-area-code-is-coming-to-the-303/720-region-in-the-greater-denver-area",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  }
+]
